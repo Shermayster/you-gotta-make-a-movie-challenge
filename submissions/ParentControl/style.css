@@ -62,7 +62,7 @@ video {
   height: 108px;
   background-image: url("https://dash.readme.io/img/owl-login.png");
   position: relative;
-  top:10px;
+  top: 10px;
 }
 .owl .hand {
   width: 34px;
@@ -109,8 +109,4 @@ video {
 }
 .owl .arms .arm.arm-r.password {
   transform: translateX(-40px) translateY(-40px) scaleX(-1);
-}
-
-video {
-  width:100%;
 }
